@@ -1,0 +1,143 @@
+.head{
+    display:inline-flex;
+    margin-left: 30px; 
+}
+.search{
+    height:40px;
+    width:500px;
+    border-radius:15px;
+    padding: 15px;
+    margin-left:100px;
+    background-color: #262626;
+    font-size: 18px;
+    border:0;
+}
+.login{
+    background-color: #262626;
+    margin-left:100px;
+    height: 45px;
+    width:100px;
+    color:white;
+    border-radius: 15px;
+    font-size: 18px;
+    border:0;
+}
+.explore{
+    background-color: #262626;
+    margin-left:100px;
+    height: 45px;
+    width:90px;
+    color:white;
+    border-radius: 15px;
+    font-size: 18px;
+    border:0;
+}
+.rent{
+    background-color: #262626;
+    margin-left:90px;
+    height: 45px;
+    width:100px;
+    color:white;
+    border-radius: 15px;
+    font-size: 18px;
+    border:0;
+}
+#flex2{
+   margin-left:20px;
+   display: flex;
+   background-color: #262626;
+   border-radius: 50px;
+   width:1280px;
+   padding: 10px;
+}
+.about{
+    padding:5px 15px;
+}
+.icon{
+    margin-left: 20px;
+    margin-right:10px;
+    background-color: #FECB03;
+    padding: 10px;
+    border-radius: 50%;
+    height:60px;
+    width:60px;
+    display:inline-block;
+}
+span{
+    position:absolute;
+    display: inline-block;
+    font-size: 20px;
+    padding:20px;
+    font-size: 32px;
+}
+.time{
+    display:flex;
+    margin-left: 750px;
+    height:200px;
+    width:200px;
+    border-width: 0;
+    border-radius: 1000px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    
+}
+.know{
+    margin-left: 731px;
+    height:80px;
+    width:250px;
+    font-size: 32px;
+    padding:20px;
+    border-radius:50px;
+    background-color: #FECB03;
+    border:0;
+}
+.categories{
+    margin-left:35px;
+}
+#flex03{
+    display: flex;
+    margin-left: 15px;
+    font-size:24px;
+}
+.box11{
+    padding:20px;
+    border: 3px solid #262626;
+    border-color: #262626;
+    background-color: #1F1F1F;
+    margin:15px;
+    border-radius:20px;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.know1{
+    margin-left:10rem;
+    height:55px;
+    width:200px;
+    font-size: 24px;
+    padding:15px;
+    border-radius:50px;
+    background-color: #FECB03;
+    border:0;
+}
+#flex04{
+    display: flex;
+    margin-left: 25px;
+    padding:10px 35px;
+    font-size: 24px;
+    background-color: #262626;
+    border-radius: 30px;
+    
+}
+.container1{
+    width:60%;
+}
+.container2{
+    width:20%;
+    margin-left:50px;
+    
+}
+.container3{
+    width:20%;
+}
+
